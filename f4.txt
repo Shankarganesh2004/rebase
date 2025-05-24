@@ -1,4 +1,7 @@
 hi
 this
 is
+<<<<<<< HEAD
 file4
+=======
+>>>>>>> dd295a8 (commit9)
